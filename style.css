@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(#6600ff, #fcb045, #fd1d1d);
+    
+}
+
+.name_of_objects{
+   color: whitesmoke;
+   background: linear-gradient(#6600ff, #fcb045, #fd1d1d);
+}
+
+#camera,#result{
+    width: 350px;
+    height: 350px;
+    border: 3px solid rebeccapurple;
+}
+
